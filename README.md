@@ -1,13 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=joshuaferr1s&show_icons=true">
+# Howdy, I'm Josh 🏕️
 
-### Howdy, I'm Josh 🏕️
-
-😄 **Pronouns:** He/Him
-
-🎓 **Education:** Masters of Business Analytics from Miami University
+😄 **Pronouns:** He/Him/His
 
 📫 **How to reach me:** [Email](mailto:jajjferris.com)
 
-🚧 **Current Project:** [Hooroar](https://github.com/Hooroar)
-
-🌱 **I’m currently learning:** The intracacies of the `glmnet` package
+🚧 **Current Project:** [Ferris Miami Tools](https://github.com/Ferris-Miami-Tools) which is a collection of web applications used at Miami University for the First Year Integrated Core (FYIC) program.
